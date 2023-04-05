@@ -2,6 +2,7 @@
 <p align="center">🇰🇷</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center>
+    <br>
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
