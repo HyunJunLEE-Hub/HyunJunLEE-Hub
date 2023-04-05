@@ -5,12 +5,12 @@
 
 <p align=center>
     <br>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; 
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp; 
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp; 
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
     <br>
     <img src="https://img.shields.io/badge/-Machine Learning-blue"/>&nbsp;
     <img src="https://img.shields.io/badge/-Deep Learning-yellowgreen"/>&nbsp;
@@ -22,8 +22,9 @@
 <p align="center">
 <!--     블로그 -->
 <!--   <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp -->
-  <a href="https://www.instagram.com/1993_0508/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1993_0508/"/></a>&nbsp
-  <a href="mailto:cocacola@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cocacola@ds.seoultech.ac.kr"/></a>
+    <a href="https://www.instagram.com/1993_0508/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1993_0508/"/></a>&nbsp
+    <a href="mailto:cocacola@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cocacola@ds.seoultech.ac.kr"/></a>
+    <a href="https://www.linkedin.com/in/hj930508"><img src="https://img.shields.io/badge/Linkedin-1e81b0?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hj930508"/></a>&nbsp;
 </p>
 <br>
 
