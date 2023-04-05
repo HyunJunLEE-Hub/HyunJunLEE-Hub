@@ -22,7 +22,7 @@
 <p align="center">
 <!--     블로그 -->
 <!--   <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp -->
-    <a href="https://www.instagram.com/1993_0508/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1993_0508/"/></a>&nbsp
+<!--     <a href="https://www.instagram.com/1993_0508/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1993_0508/"/></a>&nbsp -->
     <a href="mailto:cocacola@ds.seoultech.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cocacola@ds.seoultech.ac.kr"/></a>
     <a href="https://www.linkedin.com/in/hj930508"><img src="https://img.shields.io/badge/Linkedin-1e81b0?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hj930508"/></a>&nbsp;
 </p>
@@ -31,6 +31,6 @@
 
 <!-- [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/HyunJunLEE-Hub) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJunLEE-Hub&theme=radical&layout=compact&)](https://github.com/HyunJunLEE-Hub/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJunLEE-Hub&theme=radical&layout=compact&)](https://github.com/HyunJunLEE-Hub/github-readme-stats)   -->
 ![깃허브 닉네임's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJunLEE-Hub&theme=radical&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=HyunJunLEE-Hub&theme=radical)
