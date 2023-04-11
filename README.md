@@ -29,5 +29,7 @@
 <!-- [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/HyunJunLEE-Hub) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJunLEE-Hub&theme=radical&layout=compact&)](https://github.com/HyunJunLEE-Hub/github-readme-stats)   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={깃헙 이름(string)})](https://github.com/anuraghazra/github-readme-stats)
+
 ![깃허브 닉네임's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJunLEE-Hub&theme=radical&show_icons=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=HyunJunLEE-Hub&theme=radical)
